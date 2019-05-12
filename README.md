@@ -12,3 +12,5 @@ Software product that has the following features:
 Made with using student license of Microsoft Azure Face SDK for Python.
 
 Test.mp4 and test_2.mp4 - files, created for testing application.
+Untitled.ui - user intetface form
+Background_3 - background image
