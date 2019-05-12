@@ -10,3 +10,5 @@ Software product that has the following features:
 - Finding people in the frame and their attributes.
 
 Made with using student license of Microsoft Azure Face SDK for Python.
+
+Test.mp4 and test_2.mp4 - files, created for testing application.
